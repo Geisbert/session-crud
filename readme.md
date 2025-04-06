@@ -3,7 +3,7 @@
 Aplikasi ini adalah implementasi CRUD menggunakan Session di PHP.
 
 ## 📌 Fitur
-- **Menambah tugas** dengan nama dan waktu pengerjaan.
+- **Menambah tugas** dengan nama.
 - **Menampilkan daftar tugas** dengan tautan ke detail.
 - **Melihat detail tugas** yang menampilkan informasi lengkap.
 - **Mengedit tugas** untuk memperbarui informasi.
